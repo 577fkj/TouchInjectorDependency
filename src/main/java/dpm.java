@@ -1,0 +1,15 @@
+public class dpm {
+
+    private a a;
+
+    public a c() {
+        return a;
+    }
+
+    public enum a {
+        a,
+        b,
+        c
+    }
+
+}
